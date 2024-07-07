@@ -1,0 +1,99 @@
+header {
+    height: 100px;
+    background-color: rgb(2, 55, 99);
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+.ilk{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    margin: 10px;
+    font-size: x-large;
+text-align: center;
+color: white;
+}
+.ilk img{
+    height: 400px;
+    width: 400px;
+    justify-content: ;
+}
+.iki{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    margin: 10px;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+.iki img{
+    height: 400px;
+    width: 400px;
+}
+.three{
+height: 400px;
+width: 400px;
+font-size: x-large;
+text-align: center;
+color: white;
+}
+.three img{
+    height: 400px;
+    width: 400px;
+}
+.four {
+    height: 400px;
+    width:400px;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+
+.four img{
+    height: 400px;
+    width: 400px;
+}
+main{
+        display: flex;
+        justify-content: space-between;
+        background-image: url("images.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        
+}
+header img{
+        width: 200px;
+        height: 100px;
+        margin: 10px;
+}
+    
+button{
+        padding: 10px;
+        font-style: italic;
+        border-radius: 50px;
+
+}
+button:hover{
+        background-color: rgb(4, 58, 139);
+        color: rgb(218, 218, 218);
+        border: solid 2px rgb(9, 7, 124) ;
+    }
+    footer{
+        background-color:rgb(18, 48, 148) ;
+        /* display: flex;
+        justify-content: center; */
+        color: white;
+    }
+    footer img{
+        height: 80px;
+        width: 80px;
+        margin: 10px;
+    }
+    footer div{
+        display: flex;
+        justify-content: center;
+    }
